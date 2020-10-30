@@ -8,4 +8,5 @@
 
 </p>
 
-Second version design based on MG92B servomotors
+Second version design based on MG92B servomotors.
+Still under the development.
