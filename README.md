@@ -11,8 +11,8 @@
 
 
 <p align="center">
-<img src="./3D files2.1/TomatoDogV2.PNG">
-</p>
+<img src="./3D files_ver2.1/TomatoDogV2.PNG">
+
 
 Second version design based on MG92B servomotors.
 Still under the development.
